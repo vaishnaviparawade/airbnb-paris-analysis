@@ -1,4 +1,5 @@
 **Airbnb Paris Listing Analysis**
+
 **Project Overview :**
 This project analyzes Airbnb listing data for Paris to uncover pricing patterns, neighborhood trends, host growth behavior, and long-term price evolution.
 The objective is to extract meaningful business insights using data cleaning, exploratory data analysis (EDA), and visualization techniques in Python.
